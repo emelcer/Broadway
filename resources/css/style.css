@@ -40,3 +40,15 @@ p {
   font-size: 23px;
   font-weight: bold;
 }
+
+footer {
+  color: white;
+  background-color: dimgray;
+}
+footer p {
+  font-size: 11px;
+}
+footer a {
+  color: white;
+  font-size: 18px;
+}
